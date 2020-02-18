@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 TODO: Add contents for testfile
 TODO: Hello world
+=======
+Add content to the testfile
+Add new conteent to the testfile
+>>>>>>> d52350cd99676ac6962b1fba041567e2541385ac
